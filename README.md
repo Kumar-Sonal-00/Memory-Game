@@ -6,6 +6,8 @@ This project is made using HTML,CSS & JavaScript.
 
 It's a simple online memory matching game, which contains various levels.
 
+Here are some snapshots from game.
+
 
 ![GameScreenshot (1)](https://user-images.githubusercontent.com/53908313/186748590-193635d9-e22a-43b0-9fd4-1c44505d01f5.png)
 
